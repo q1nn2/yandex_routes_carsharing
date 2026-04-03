@@ -142,16 +142,10 @@ Manual QA Engineer
 
 ---
 
-## Публикация на GitHub
+## Репозиторий на GitHub
 
-Создайте репозиторий **`Sprint_3_yandex_routes`** (или `Sprint_3_yandex_routes_carsharing`), затем:
+Артефакты опубликованы: [q1nn2/Sprint_3_yandex_routes-carsharing-](https://github.com/q1nn2/Sprint_3_yandex_routes-carsharing-)
 
 ```bash
-cd Sprint_3_yandex_routes
-git init
-git add .
-git commit -m "Initial commit: Sprint 3 manual QA artifacts for Yandex Routes carsharing"
-git branch -M main
-git remote add origin https://github.com/<user>/Sprint_3_yandex_routes.git
-git push -u origin main
+git clone https://github.com/q1nn2/Sprint_3_yandex_routes-carsharing-.git
 ```
