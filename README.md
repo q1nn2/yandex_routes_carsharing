@@ -1,4 +1,4 @@
-# Яндекс Маршруты — Sprint 3 (Manual QA, каршеринг)
+# Яндекс Маршруты — Manual QA, каршеринг
 
 Ручное тестирование веб‑сервиса **Яндекс Маршруты** в части **каршеринга**: сверка вёрстки с макетом, сценарии окон «Способ оплаты» и «Добавление карты», логика кнопки «Забронировать», оформление баг‑репортов.
 
@@ -38,7 +38,7 @@
 
 ## Ссылки
 
-- **Репозиторий (GitHub):** [q1nn2/Sprint_3_yandex_routes-carsharing-](https://github.com/q1nn2/Sprint_3_yandex_routes-carsharing-)
+- **Репозиторий (GitHub):** [q1nn2/yandex_routes_carsharing](https://github.com/q1nn2/yandex_routes_carsharing)
 - **Тестируемый стенд:** `https://qa-routes.praktikum-services.ru/`
 - **Макеты (Figma):** [Яндекс Маршруты](https://www.figma.com/file/fPw1Xj2dYJy5mdyCg2jduh/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81-%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D1%8B?node-id=2-18586&p=f&t=5hMAjMC5GwSXOAOg-0)
 - **Требования (каршеринг):** [Требования к функциональности Каршеринг (Yonote)](https://practicum-for-students.yonote.ru/share/0ff0230f-e963-47fa-9a87-8daa1b77fac1/doc/trebovaniya-k-funkcionalnosti-karshering-fF071lXRxM)
@@ -47,7 +47,7 @@
 
 ## Артефакты
 
-Общая таблица: [Google Sheets — Sprint 3](https://docs.google.com/spreadsheets/d/1RUIqS2PpyX0tpLlChrycO3SNLExo3msplwUWW8lf9Qc/edit)
+Общая таблица: [Google Sheets](https://docs.google.com/spreadsheets/d/1RUIqS2PpyX0tpLlChrycO3SNLExo3msplwUWW8lf9Qc/edit)
 
 | Артефакт | Формат | Google Sheets (лист) | GitHub |
 |----------|--------|----------------------|--------|
@@ -113,4 +113,3 @@
 
 **Anatoly Elnikov**  
 Manual QA Engineer
-
